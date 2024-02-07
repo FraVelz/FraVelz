@@ -11,7 +11,7 @@
 > "The reflection of who we are depends on the habits we have".
 
 ## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divelz&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight)
 
 ## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divelz&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
