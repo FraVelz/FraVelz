@@ -15,3 +15,10 @@
 
 ## ⌨️ Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+
+🌐 Otros perfiles:
+- OmegaUp: [Link OmegaUp.](https://omegaup.com/profile/fravelz)
+- LeetCode: [Link LeetCode.](https://leetcode.com/u/Fravelz)
+- Codeforces: [Link CodeForces.](https://codeforces.com/profile/Fravelz)
+- AtCoder: [Link AtCoder.](https://atcoder.jp/users/Fravelz)
+- SoloLearn: [Link Sololearn.](https://www.sololearn.com/es/profile/33495631)
