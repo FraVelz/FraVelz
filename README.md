@@ -4,7 +4,7 @@
   <a href="https://jesuslagares.com/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
 </p> -->
 
-<h2 align="center"> I'm learning to program... 💻! </h2>
+<h2 align="center"> I like to program... 💻! </h2>
 
 > 💎 1% Better than yesterday...
 
