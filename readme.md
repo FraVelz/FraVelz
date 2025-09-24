@@ -39,13 +39,13 @@ Todos los lenguajes utilizados (de mayor a menor experiencia):
 </a>
 
 
-Yo uso Arch Linux, por cierto!! (I use Arch Linux btw!!)k
+Yo uso Arch Linux, por cierto!! (I use Arch Linux btw!!)
 
 <!-- Mi Otro Perfil ************************************ -->
 
 ## 🌐 Perfil (Programación Competitiva)
 
-* OmegaUp (Top #450): [Link OmegaUp](https://omegaup.com/profile/fravelz)
+* OmegaUp (Top #350): [Link OmegaUp](https://omegaup.com/profile/fravelz)
 
 > **Author:** Fravelz
 
