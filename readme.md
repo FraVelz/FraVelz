@@ -1,4 +1,4 @@
-<!-- Mi Perfil ***************************************** -->
+j<!-- Mi Perfil ***************************************** -->
 
 ### Bienvenido :)
 
@@ -14,23 +14,17 @@
 
 ## 📈 Estado de GitHub y Lenguajes de programación (mas utilizados)
 
-<div align="center">
-  <span>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight" 
-      alt="Anurag's GitHub stats"
-    />
-  </span>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <span>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight" 
-      alt="Lenguajes de programación más utilizados."
-    />
-  </span>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight" alt="Stats" height="200"/>
+    </td>
+    <td>
+      <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
+    </td>
+  </tr>
+</table>
 
 Todos los lenguajes utilizados (de mayor a menor experiencia):
 
