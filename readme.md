@@ -49,10 +49,7 @@ Yo uso Arch Linux, por cierto!! (I use Arch Linux btw!!)
 
 ## 🌐 Perfil (Programación Competitiva)
 
-* OmegaUp (Top #450): \
-<a href="https://omegaup.com/profile/fravelz" target="_blank" rel="noopener noreferrer">
-    Link OmegaUp.
-</a>
+* OmegaUp (Top #450): [Link OmegaUp](https://omegaup.com/profile/fravelz)
 
 > **Author:** Fravelz
 
