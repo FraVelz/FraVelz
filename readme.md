@@ -15,18 +15,20 @@
 ## 📈 Estado de GitHub y Lenguajes de programación (mas utilizados)
 
 <div align="center">
-  <a href="https://github.com/Lagaress/github-readme-stats" target="_blank" rel="noopener noreferrer">
+  <span style="display:inline-block; margin-right:10px;">
+    <a href="https://github.com/Lagaress/github-readme-stats" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight" 
+        alt="Lenguajes de programación más utilizados."
+      />
+    </a>
+  </span>
+  <span style="display:inline-block;">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight" 
-      alt="Lenguajes de programación mas utilizados."
+      src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight" 
+      alt="Anurag's GitHub stats"
     />
-  </a>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight" 
-  alt="Anurag's GitHub stats"
-/>
-
+  </span>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight)
