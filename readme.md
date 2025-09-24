@@ -12,7 +12,22 @@
 
 <!-- Mi Información ************************************ -->
 
-## 📈 Estado de GitHub (Activo :v)
+## 📈 Estado de GitHub y Lenguajes de programación (mas utilizados)
+
+<div align="center">
+  <a href="https://github.com/Lagaress/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight" 
+      alt="Lenguajes de programación mas utilizados."
+    />
+  </a>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight" 
+  alt="Anurag's GitHub stats"
+/>
+
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight)
 
