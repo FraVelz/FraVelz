@@ -37,14 +37,6 @@ Todos los lenguajes utilizados (de mayor a menor experiencia):
 
 Yo uso Arch Linux, por cierto!! (I use Arch Linux btw!!)
 
-<!-- Mis Proyectos ************************************* -->
-
-## 📔 Mis Proyectos mas importantes
-
-1. ...
-2. ...
-...
-
 <!-- Mi Otro Perfil ************************************ -->
 
 ## 🌐 Perfil (Programación Competitiva)
