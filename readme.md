@@ -1,4 +1,4 @@
-j<!-- Mi Perfil ***************************************** -->
+<!-- Mi Perfil ***************************************** -->
 
 ### Bienvenido :)
 
@@ -17,11 +17,11 @@ j<!-- Mi Perfil ***************************************** -->
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight" alt="Stats" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight" alt="Stats" height="200em"/>
     </td>
     <td>
       <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight" alt="Top Langs" height="200em"/>
     </td>
   </tr>
 </table>
