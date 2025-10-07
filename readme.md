@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hola! Yo soy (FV) Fravelz ✨ </h1>
 
-<h3 align="center">Aprendiendo | ... | ... | ... </h3>
+<h3 align="center">Aprendiendo Ciberseguridad | ... | ... | ... </h3>
 
 > 💎 1% Mejor que Ayer...
 
