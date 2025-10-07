@@ -47,5 +47,5 @@ Yo uso Arch Linux, por cierto!! (I use Arch Linux btw!!)
 
 * OmegaUp (Top #350): [Link OmegaUp](https://omegaup.com/profile/fravelz)
 
-> **Author:** Fravelz
+> **Autor:** Fravelz
 
