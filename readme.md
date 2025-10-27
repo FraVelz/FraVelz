@@ -23,12 +23,12 @@
   <tr>
    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fravelz&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%"/> 
-      <img src="./separador.png"/>
+      <img src="./separador.png#gh-dark-mode-only"/>
       <img src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="100%" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
-      <img src="./separador.png"/>
+      <img src="./separador.png#gh-dark-mode-only"/>
       <h3 align="center">🔥 Todos los lenguajes</h3>
       <br />
       <img width="100%" src="https://skillicons.dev/icons?i=cpp,py,bash," />
