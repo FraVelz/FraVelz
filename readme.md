@@ -22,17 +22,17 @@
 
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fravelz&theme=tokyonight&hide_border=true" alt="Top Langs" height="200em" width="500px"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" height="200em" width="500px" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fravelz&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="100%" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=arch,vscode,neovim" />
-      <img src="https://skillicons.dev/icons?i=,github,discord" />
+      <img src="https://skillicons.dev/icons?i=arch,vscode,neovim" width="100%" />
+      <img src="https://skillicons.dev/icons?i=,github,discord" width="100%" />
     </td>
   </tr>
 </table>
 
-<table width="100%">
+<table>
   <tr>
     <td>
       <h3>✨ Lenguajes mas utilizados</h3>
@@ -45,26 +45,14 @@
   <tr>
     <td>
       <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="200em"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
     </td>
     <td>
-      <table>
-        <tr>
-          <td>
-            <img src="https://skillicons.dev/icons?i=cpp,py,bash" />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://skillicons.dev/icons?i=flutter" />
-          </td>
-        </tr>
-         <tr>
-          <td>
-            <img src="https://skillicons.dev/icons?i=html,css,js" />
-          </td>
-        </tr>
-      </table>
+      <img width="100%" src="https://skillicons.dev/icons?i=cpp,py,bash" />
+      <br />
+      <img width="100%" src="https://skillicons.dev/icons?i=,flutter," />
+      <br />
+      <img width="100%" src="https://skillicons.dev/icons?i=html,css,js" />
     </td>
   </tr>
 </table>
