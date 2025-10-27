@@ -23,16 +23,12 @@
   <tr>
    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fravelz&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%"/> 
-      <div align="center">
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 100 10" fill="none" stroke="#99c1f1" stroke-width="4" stroke-linecap="round"><path d="M5 5 H95" /></svg>
-      </div>
+      <img src="./separador.webp"/>
       <img src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="100%" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
-      <div align="center">
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="10" viewBox="0 0 100 10" fill="none" stroke="#99c1f1" stroke-width="4" stroke-linecap="round"><path d="M5 5 H95" /></svg>
-      </div>
+      <img src="./separador.webp"/>
       <h3 align="center">🔥 Todos los lenguajes</h3>
       <br />
       <img width="100%" src="https://skillicons.dev/icons?i=cpp,py,bash," />
