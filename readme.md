@@ -10,7 +10,7 @@
 
 <!-- Mi Información ************************************ -->
 
-<table style="border:0px none;">
+<table>
   <tr>
     <td>
       <h3>📈 Información de Github</h3>
@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <h3>✨ Lenguajes mas utilizados</h3>
