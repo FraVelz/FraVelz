@@ -23,12 +23,14 @@
   <tr>
    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fravelz&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%"/> 
-      <img src="./separador.png#gh-dark-mode-only"/>
+      <img src="./imagenes/separador-bg-black.webp#gh-dark-mode-only"/>
+      <img src="./imagenes/separador-bg-white.webp#gh-light-mode-only"/>
       <img src="https://github-readme-stats.vercel.app/api?username=FraVelz&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="100%" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraVelz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="100%" />
-      <img src="./separador.png#gh-dark-mode-only"/>
+      <img src="./imagenes/separador-bg-black.webp#gh-dark-mode-only"/>
+      <img src="./imagenes/separador-bg-white.webp#gh-light-mode-only"/>
       <h3 align="center">🔥 Todos los lenguajes</h3>
       <br />
       <img width="100%" src="https://skillicons.dev/icons?i=cpp,py,bash," />
@@ -36,7 +38,6 @@
       <img width="100%" src="https://skillicons.dev/icons?i=,markdown,flutter," />
       <br />
       <img width="100%" src="https://skillicons.dev/icons?i=,html,css,js" />
-      
   </tr>
 
  <tr>
@@ -48,7 +49,10 @@
  </tr>
 </table>
 
- 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fravelz&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
 <!-- Mi Otro Perfil ************************************ -->
 
 ## 🌐 Perfiles
