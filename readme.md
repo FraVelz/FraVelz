@@ -60,5 +60,7 @@
 - **OmegaUp** (Programación Competitiva, Top #350): [Link OmegaUp](https://omegaup.com/profile/fravelz)
 
 - **Discord:** Fravelz
-
+  
+- **Página Web:** [Ir al Sitio Web Personal](https://fravelz.github.io/WEB-Fravelz/)
+- 
 > **Autor:** Fravelz
