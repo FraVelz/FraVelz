@@ -70,7 +70,7 @@
       </a>
     </td>
     <td>
-      <a href="#" target=" _blank">
+      <a href="https://web-pruebas-icfes.web.app/" target=" _blank">
         <img width="100%" src="./imagenes/ICFES Master.png" />
         <br><br>
        <p align="center">Ir a Proyecto ICFES Master (200 OK, en desarrollo)</p>
