@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://fravelz.github.io/WEB-Fravelz/" target=" _blank">
+      <a href="https://fravelz.vercel.app/ " target=" _blank">
         <img src="./imagenes/Portfolio.png" />
         <br><br>
         <p align="center">Ir a Portafolio Web</p>
