@@ -65,17 +65,17 @@
 <table>
   <tr>
     <td>
-      <a href="https://fravelz.github.io/WEB-Fravelz/" target=" _blank">
+      <a href="https://fravelz.vercel.app/ " target=" _blank">
         <img src="./imagenes/Portfolio.png" />
         <br><br>
         <p align="center">Ir a Portafolio Web</p>
       </a>
     </td>
     <td>
-      <a href="https://web-pruebas-icfes.web.app/" target=" _blank">
+      <a href="https://icfes-master.vercel.app/" target=" _blank">
         <img width="100%" src="./imagenes/ICFES Master.png" />
         <br><br>
-       <p align="center">Ir a Proyecto ICFES Master</p>
+       <p align="center">Ir a Proyecto ICFES Master (200 OK, en desarrollo)</p>
       </a>
     </td>
   </tr>
