@@ -85,8 +85,10 @@
   <tr><td><a href="https://github.com/FraVelz/app-icfes-master">app-icfes-master</a></td><td>ICFES · Flutter</td></tr>
   <tr><th colspan="2"><b>Librerías</b></th></tr>
   <tr><td><a href="https://github.com/FraVelz/ui-kit-fravelz">ui-kit-fravelz</a></td><td>React · npm</td></tr>
-  <tr><th colspan="2"><b>Forks</b></th></tr>
-  <tr><td><a href="https://github.com/FraVelz/mogverso">mogverso</a></td><td>Next.js (fork)</td></tr>
+  <tr><th colspan="2"><b>Forks</b> <i>(sin mantenimiento en auditoría)</i></th></tr>
+  <tr><td colspan="2">Ver <code>~/Documentos/web/forks/</code> — mogverso, etc.</td></tr>
+  <tr><th colspan="2"><b>Pins recomendados en perfil</b></th></tr>
+  <tr><td colspan="2">Fijar manualmente: WEB-Fravelz, ui-kit-fravelz, jammer-warriors, WEB-ICFES-Master</td></tr>
   <tr><th colspan="2"><b>Experimentos</b></th></tr>
   <tr><td><a href="https://github.com/FraVelz/animation">animation</a></td><td>Next.js · React</td></tr>
 </table>
