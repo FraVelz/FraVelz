@@ -58,6 +58,41 @@
 
 <img src="./gifs/linea.gif"><br>
 
+<!-- Repositorios activos ****************************** -->
+
+<h2 align="center">Repositorios activos</h2>
+
+<p align="center">
+  Índice local de auditoría y rutas:
+  <code>~/Documentos/README.md</code>
+  (<a href="https://github.com/FraVelz/FraVelz/blob/main/readme.md">perfil</a> · ver clone en <code>/home/fravelz/Documentos</code>)
+</p>
+
+<table>
+  <tr><th colspan="2"><b>Producción activa</b></th></tr>
+  <tr><td><a href="https://github.com/FraVelz/jammer-warriors">jammer-warriors</a></td><td>Next.js · React</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/fv-store">fv-store</a></td><td>Next.js · React</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/starcrypt">starcrypt</a></td><td>Next.js · React</td></tr>
+  <tr><th colspan="2"><b>Portafolio</b></th></tr>
+  <tr><td><a href="https://github.com/FraVelz/WEB-Fravelz">WEB-Fravelz</a></td><td>Next.js</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/WEB-To-do-List">WEB-To-do-List</a></td><td>Next.js</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/WEB-Marcadores">WEB-Marcadores</a></td><td>Next.js</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/WEB-Time">WEB-Time</a></td><td>Next.js</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/WEB-Prosperity">WEB-Prosperity</a></td><td>Next.js</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/Frontend-Mentor-Nextjs">Frontend-Mentor-Nextjs</a></td><td>Next.js</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/WEB-ICFES-Master">WEB-ICFES-Master</a></td><td>ICFES · Next.js</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/WEB-ICFES-Admin">WEB-ICFES-Admin</a></td><td>ICFES · Next.js</td></tr>
+  <tr><td><a href="https://github.com/FraVelz/app-icfes-master">app-icfes-master</a></td><td>ICFES · Flutter</td></tr>
+  <tr><th colspan="2"><b>Librerías</b></th></tr>
+  <tr><td><a href="https://github.com/FraVelz/ui-kit-fravelz">ui-kit-fravelz</a></td><td>React · npm</td></tr>
+  <tr><th colspan="2"><b>Forks</b></th></tr>
+  <tr><td><a href="https://github.com/FraVelz/mogverso">mogverso</a></td><td>Next.js (fork)</td></tr>
+  <tr><th colspan="2"><b>Experimentos</b></th></tr>
+  <tr><td><a href="https://github.com/FraVelz/animation">animation</a></td><td>Next.js · React</td></tr>
+</table>
+
+<img src="./gifs/linea.gif"><br>
+
 <!-- Paginas Principales ******************************* -->
 
 <h2 align="center">Paginas Principales</h2>
